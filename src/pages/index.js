@@ -12,8 +12,8 @@ const IndexPage = () => (
     <p>Welcome my personal site.</p>
     <p></p>
     <StaticImage
-      src="../images/gatsby-astronaut.png"
-      width={300}
+      src="../images/25796705.jpg"
+      width={400}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
